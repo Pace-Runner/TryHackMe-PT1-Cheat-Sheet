@@ -2,7 +2,7 @@
 
 *Junior Penetration Tester — exam prep & in-exam reference*
 
-[Oct 14, 2026 · @owen](https://tryhackme.com/certification/junior-penetration-tester/details)
+[Link](https://tryhackme.com/certification/junior-penetration-tester/details)
 
 ## 1. Exam logistics & scoring
 
